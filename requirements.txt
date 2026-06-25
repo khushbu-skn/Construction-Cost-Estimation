@@ -1,0 +1,13 @@
+numpy
+pandas
+# scikit-learn==1.2.2
+scikit-learn
+seaborn
+dill
+xgboost
+catboost
+flask
+openpyxl
+category_encoders
+pylint
+-e .
