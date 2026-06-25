@@ -37,7 +37,7 @@ This project is a Flask web application designed to predict construction costs b
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/construction-cost-prediction.git
+   git clone https://github.com/khushbu-skn/construction-cost-prediction.git
    cd construction-cost-prediction
    ```
 2. Install the required packages:
@@ -123,6 +123,3 @@ Hyperparameter tuning is performed using GridSearchCV for models like Random For
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Aadi1101/Construction_Cost_Estimation_and_Project_Analytics/blob/main/LICENSE) file for more details.
